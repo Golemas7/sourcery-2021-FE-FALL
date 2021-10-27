@@ -1,0 +1,5 @@
+
+Hello from feature branch!
+
+Hello World from merge-conflict branch!
+
